@@ -1,0 +1,170 @@
+E:\DPSworkFolder\API\DPS\DPS\obj\Debug\DPS.csprojResolveAssemblyReference.cache
+E:\DPSworkFolder\API\DPS\DPS\bin\roslyn\csc.exe
+E:\DPSworkFolder\API\DPS\DPS\bin\roslyn\csc.exe.config
+E:\DPSworkFolder\API\DPS\DPS\bin\roslyn\csc.rsp
+E:\DPSworkFolder\API\DPS\DPS\bin\roslyn\csi.exe
+E:\DPSworkFolder\API\DPS\DPS\bin\roslyn\csi.rsp
+E:\DPSworkFolder\API\DPS\DPS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\DPSworkFolder\API\DPS\DPS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\DPSworkFolder\API\DPS\DPS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\DPSworkFolder\API\DPS\DPS\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\DPSworkFolder\API\DPS\DPS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\DPSworkFolder\API\DPS\DPS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\DPSworkFolder\API\DPS\DPS\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\DPSworkFolder\API\DPS\DPS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\DPSworkFolder\API\DPS\DPS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\DPSworkFolder\API\DPS\DPS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\DPSworkFolder\API\DPS\DPS\bin\roslyn\System.AppContext.dll
+E:\DPSworkFolder\API\DPS\DPS\bin\roslyn\System.Collections.Immutable.dll
+E:\DPSworkFolder\API\DPS\DPS\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\DPSworkFolder\API\DPS\DPS\bin\roslyn\System.IO.FileSystem.dll
+E:\DPSworkFolder\API\DPS\DPS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\DPSworkFolder\API\DPS\DPS\bin\roslyn\System.Reflection.Metadata.dll
+E:\DPSworkFolder\API\DPS\DPS\bin\roslyn\vbc.exe
+E:\DPSworkFolder\API\DPS\DPS\bin\roslyn\vbc.exe.config
+E:\DPSworkFolder\API\DPS\DPS\bin\roslyn\vbc.rsp
+E:\DPSworkFolder\API\DPS\DPS\bin\roslyn\VBCSCompiler.exe
+E:\DPSworkFolder\API\DPS\DPS\bin\roslyn\VBCSCompiler.exe.config
+E:\DPSworkFolder\API\DPS\DPS\bin\DPS.dll.config
+E:\DPSworkFolder\API\DPS\DPS\bin\DPS.dll
+E:\DPSworkFolder\API\DPS\DPS\bin\DPS.pdb
+E:\DPSworkFolder\API\DPS\DPS\bin\BLL.dll
+E:\DPSworkFolder\API\DPS\DPS\bin\BOL.dll
+E:\DPSworkFolder\API\DPS\DPS\bin\EntityFramework.dll
+E:\DPSworkFolder\API\DPS\DPS\bin\EntityFramework.SqlServer.dll
+E:\DPSworkFolder\API\DPS\DPS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\DPSworkFolder\API\DPS\DPS\bin\Newtonsoft.Json.dll
+E:\DPSworkFolder\API\DPS\DPS\bin\System.Net.Http.Formatting.dll
+E:\DPSworkFolder\API\DPS\DPS\bin\System.Web.Cors.dll
+E:\DPSworkFolder\API\DPS\DPS\bin\System.Web.Http.Cors.dll
+E:\DPSworkFolder\API\DPS\DPS\bin\System.Web.Http.dll
+E:\DPSworkFolder\API\DPS\DPS\bin\System.Web.Http.WebHost.dll
+E:\DPSworkFolder\API\DPS\DPS\bin\DAL.dll
+E:\DPSworkFolder\API\DPS\DPS\bin\BLL.pdb
+E:\DPSworkFolder\API\DPS\DPS\bin\BOL.pdb
+E:\DPSworkFolder\API\DPS\DPS\bin\EntityFramework.xml
+E:\DPSworkFolder\API\DPS\DPS\bin\EntityFramework.SqlServer.xml
+E:\DPSworkFolder\API\DPS\DPS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\DPSworkFolder\API\DPS\DPS\bin\System.Net.Http.Formatting.xml
+E:\DPSworkFolder\API\DPS\DPS\bin\System.Web.Http.xml
+E:\DPSworkFolder\API\DPS\DPS\bin\System.Web.Http.Cors.xml
+E:\DPSworkFolder\API\DPS\DPS\bin\Newtonsoft.Json.xml
+E:\DPSworkFolder\API\DPS\DPS\bin\System.Web.Http.WebHost.xml
+E:\DPSworkFolder\API\DPS\DPS\bin\DAL.pdb
+E:\DPSworkFolder\API\DPS\DPS\bin\DAL.dll.config
+E:\DPSworkFolder\API\DPS\DPS\obj\Debug\DPS.dll
+E:\DPSworkFolder\API\DPS\DPS\obj\Debug\DPS.pdb
+E:\DPSworkFolder\API\DPSapi\DPS\bin\roslyn\csc.exe
+E:\DPSworkFolder\API\DPSapi\DPS\bin\roslyn\csc.exe.config
+E:\DPSworkFolder\API\DPSapi\DPS\bin\roslyn\csc.rsp
+E:\DPSworkFolder\API\DPSapi\DPS\bin\roslyn\csi.exe
+E:\DPSworkFolder\API\DPSapi\DPS\bin\roslyn\csi.rsp
+E:\DPSworkFolder\API\DPSapi\DPS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\DPSworkFolder\API\DPSapi\DPS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\DPSworkFolder\API\DPSapi\DPS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\DPSworkFolder\API\DPSapi\DPS\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\DPSworkFolder\API\DPSapi\DPS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\DPSworkFolder\API\DPSapi\DPS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\DPSworkFolder\API\DPSapi\DPS\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\DPSworkFolder\API\DPSapi\DPS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\DPSworkFolder\API\DPSapi\DPS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\DPSworkFolder\API\DPSapi\DPS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\DPSworkFolder\API\DPSapi\DPS\bin\roslyn\System.AppContext.dll
+E:\DPSworkFolder\API\DPSapi\DPS\bin\roslyn\System.Collections.Immutable.dll
+E:\DPSworkFolder\API\DPSapi\DPS\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\DPSworkFolder\API\DPSapi\DPS\bin\roslyn\System.IO.FileSystem.dll
+E:\DPSworkFolder\API\DPSapi\DPS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\DPSworkFolder\API\DPSapi\DPS\bin\roslyn\System.Reflection.Metadata.dll
+E:\DPSworkFolder\API\DPSapi\DPS\bin\roslyn\vbc.exe
+E:\DPSworkFolder\API\DPSapi\DPS\bin\roslyn\vbc.exe.config
+E:\DPSworkFolder\API\DPSapi\DPS\bin\roslyn\vbc.rsp
+E:\DPSworkFolder\API\DPSapi\DPS\bin\roslyn\VBCSCompiler.exe
+E:\DPSworkFolder\API\DPSapi\DPS\bin\roslyn\VBCSCompiler.exe.config
+E:\DPSworkFolder\API\DPSapi\DPS\bin\DPS.dll.config
+E:\DPSworkFolder\API\DPSapi\DPS\bin\DPS.dll
+E:\DPSworkFolder\API\DPSapi\DPS\bin\DPS.pdb
+E:\DPSworkFolder\API\DPSapi\DPS\bin\BLL.dll
+E:\DPSworkFolder\API\DPSapi\DPS\bin\BOL.dll
+E:\DPSworkFolder\API\DPSapi\DPS\bin\EntityFramework.dll
+E:\DPSworkFolder\API\DPSapi\DPS\bin\EntityFramework.SqlServer.dll
+E:\DPSworkFolder\API\DPSapi\DPS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\DPSworkFolder\API\DPSapi\DPS\bin\Newtonsoft.Json.dll
+E:\DPSworkFolder\API\DPSapi\DPS\bin\System.Net.Http.Formatting.dll
+E:\DPSworkFolder\API\DPSapi\DPS\bin\System.Web.Cors.dll
+E:\DPSworkFolder\API\DPSapi\DPS\bin\System.Web.Http.Cors.dll
+E:\DPSworkFolder\API\DPSapi\DPS\bin\System.Web.Http.dll
+E:\DPSworkFolder\API\DPSapi\DPS\bin\System.Web.Http.WebHost.dll
+E:\DPSworkFolder\API\DPSapi\DPS\bin\DAL.dll
+E:\DPSworkFolder\API\DPSapi\DPS\bin\BLL.pdb
+E:\DPSworkFolder\API\DPSapi\DPS\bin\BOL.pdb
+E:\DPSworkFolder\API\DPSapi\DPS\bin\EntityFramework.xml
+E:\DPSworkFolder\API\DPSapi\DPS\bin\EntityFramework.SqlServer.xml
+E:\DPSworkFolder\API\DPSapi\DPS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\DPSworkFolder\API\DPSapi\DPS\bin\System.Net.Http.Formatting.xml
+E:\DPSworkFolder\API\DPSapi\DPS\bin\System.Web.Http.xml
+E:\DPSworkFolder\API\DPSapi\DPS\bin\System.Web.Http.Cors.xml
+E:\DPSworkFolder\API\DPSapi\DPS\bin\Newtonsoft.Json.xml
+E:\DPSworkFolder\API\DPSapi\DPS\bin\System.Web.Http.WebHost.xml
+E:\DPSworkFolder\API\DPSapi\DPS\bin\DAL.pdb
+E:\DPSworkFolder\API\DPSapi\DPS\bin\DAL.dll.config
+E:\DPSworkFolder\API\DPSapi\DPS\obj\Debug\DPS.csprojResolveAssemblyReference.cache
+E:\DPSworkFolder\API\DPSapi\DPS\obj\Debug\DPS.dll
+E:\DPSworkFolder\API\DPSapi\DPS\obj\Debug\DPS.pdb
+C:\Users\Mohammed Sohail\Downloads\DPSapi-master\DPS\bin\roslyn\csc.exe
+C:\Users\Mohammed Sohail\Downloads\DPSapi-master\DPS\bin\roslyn\csc.exe.config
+C:\Users\Mohammed Sohail\Downloads\DPSapi-master\DPS\bin\roslyn\csc.rsp
+C:\Users\Mohammed Sohail\Downloads\DPSapi-master\DPS\bin\roslyn\csi.exe
+C:\Users\Mohammed Sohail\Downloads\DPSapi-master\DPS\bin\roslyn\csi.rsp
+C:\Users\Mohammed Sohail\Downloads\DPSapi-master\DPS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Mohammed Sohail\Downloads\DPSapi-master\DPS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mohammed Sohail\Downloads\DPSapi-master\DPS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Mohammed Sohail\Downloads\DPSapi-master\DPS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Mohammed Sohail\Downloads\DPSapi-master\DPS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Mohammed Sohail\Downloads\DPSapi-master\DPS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Mohammed Sohail\Downloads\DPSapi-master\DPS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Mohammed Sohail\Downloads\DPSapi-master\DPS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Mohammed Sohail\Downloads\DPSapi-master\DPS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Mohammed Sohail\Downloads\DPSapi-master\DPS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Mohammed Sohail\Downloads\DPSapi-master\DPS\bin\roslyn\System.AppContext.dll
+C:\Users\Mohammed Sohail\Downloads\DPSapi-master\DPS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Mohammed Sohail\Downloads\DPSapi-master\DPS\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Mohammed Sohail\Downloads\DPSapi-master\DPS\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Mohammed Sohail\Downloads\DPSapi-master\DPS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Mohammed Sohail\Downloads\DPSapi-master\DPS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Mohammed Sohail\Downloads\DPSapi-master\DPS\bin\roslyn\vbc.exe
+C:\Users\Mohammed Sohail\Downloads\DPSapi-master\DPS\bin\roslyn\vbc.exe.config
+C:\Users\Mohammed Sohail\Downloads\DPSapi-master\DPS\bin\roslyn\vbc.rsp
+C:\Users\Mohammed Sohail\Downloads\DPSapi-master\DPS\bin\roslyn\VBCSCompiler.exe
+C:\Users\Mohammed Sohail\Downloads\DPSapi-master\DPS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Mohammed Sohail\Downloads\DPSapi-master\DPS\bin\DPS.dll.config
+C:\Users\Mohammed Sohail\Downloads\DPSapi-master\DPS\bin\DPS.dll
+C:\Users\Mohammed Sohail\Downloads\DPSapi-master\DPS\bin\DPS.pdb
+C:\Users\Mohammed Sohail\Downloads\DPSapi-master\DPS\bin\BLL.dll
+C:\Users\Mohammed Sohail\Downloads\DPSapi-master\DPS\bin\BOL.dll
+C:\Users\Mohammed Sohail\Downloads\DPSapi-master\DPS\bin\EntityFramework.dll
+C:\Users\Mohammed Sohail\Downloads\DPSapi-master\DPS\bin\EntityFramework.SqlServer.dll
+C:\Users\Mohammed Sohail\Downloads\DPSapi-master\DPS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Mohammed Sohail\Downloads\DPSapi-master\DPS\bin\Newtonsoft.Json.dll
+C:\Users\Mohammed Sohail\Downloads\DPSapi-master\DPS\bin\System.Net.Http.Formatting.dll
+C:\Users\Mohammed Sohail\Downloads\DPSapi-master\DPS\bin\System.Web.Cors.dll
+C:\Users\Mohammed Sohail\Downloads\DPSapi-master\DPS\bin\System.Web.Http.Cors.dll
+C:\Users\Mohammed Sohail\Downloads\DPSapi-master\DPS\bin\System.Web.Http.dll
+C:\Users\Mohammed Sohail\Downloads\DPSapi-master\DPS\bin\System.Web.Http.WebHost.dll
+C:\Users\Mohammed Sohail\Downloads\DPSapi-master\DPS\bin\DAL.dll
+C:\Users\Mohammed Sohail\Downloads\DPSapi-master\DPS\bin\BLL.pdb
+C:\Users\Mohammed Sohail\Downloads\DPSapi-master\DPS\bin\BOL.pdb
+C:\Users\Mohammed Sohail\Downloads\DPSapi-master\DPS\bin\EntityFramework.xml
+C:\Users\Mohammed Sohail\Downloads\DPSapi-master\DPS\bin\EntityFramework.SqlServer.xml
+C:\Users\Mohammed Sohail\Downloads\DPSapi-master\DPS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Mohammed Sohail\Downloads\DPSapi-master\DPS\bin\System.Net.Http.Formatting.xml
+C:\Users\Mohammed Sohail\Downloads\DPSapi-master\DPS\bin\System.Web.Http.xml
+C:\Users\Mohammed Sohail\Downloads\DPSapi-master\DPS\bin\System.Web.Http.Cors.xml
+C:\Users\Mohammed Sohail\Downloads\DPSapi-master\DPS\bin\Newtonsoft.Json.xml
+C:\Users\Mohammed Sohail\Downloads\DPSapi-master\DPS\bin\System.Web.Http.WebHost.xml
+C:\Users\Mohammed Sohail\Downloads\DPSapi-master\DPS\bin\DAL.pdb
+C:\Users\Mohammed Sohail\Downloads\DPSapi-master\DPS\bin\DAL.dll.config
+C:\Users\Mohammed Sohail\Downloads\DPSapi-master\DPS\obj\Debug\DPS.csprojAssemblyReference.cache
+C:\Users\Mohammed Sohail\Downloads\DPSapi-master\DPS\obj\Debug\DPS.csproj.CoreCompileInputs.cache
+C:\Users\Mohammed Sohail\Downloads\DPSapi-master\DPS\obj\Debug\DPS.csproj.CopyComplete
+C:\Users\Mohammed Sohail\Downloads\DPSapi-master\DPS\obj\Debug\DPS.dll
+C:\Users\Mohammed Sohail\Downloads\DPSapi-master\DPS\obj\Debug\DPS.pdb
